@@ -1,1 +1,1 @@
-# python-visual-sorting
+Implementation of visual sorting algorithms
